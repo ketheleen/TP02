@@ -1,0 +1,50 @@
+[
+  {
+    "codigo": "VG456",
+    "origem": "CGH",
+    "destino": "POA",
+    "horario": "14:35",
+    "compania": "Varig",
+    "operando": "T"
+  },
+  {
+    "codigo": "AZ002",
+    "origem": "VCP",
+    "destino": "SSA",
+    "horario": "18:00",
+    "compania": "Azul",
+    "operando": "F"
+  },
+  {
+    "codigo": "VG455",
+    "origem": "SDU",
+    "destino": "SSA",
+    "horario": "15:00",
+    "compania": "Varig",
+    "operando": "T"
+  },
+  {
+    "codigo": "JG013",
+    "origem": "POA",
+    "destino": "VCP",
+    "horario": "12:10",
+    "compania": "TAM",
+    "operando": "T"
+  },
+  {
+    "codigo": "CG123",
+    "origem": "CGH",
+    "destino": "FLN",
+    "horario": "06:00",
+    "compania": "Gol",
+    "operando": "F"
+  },
+  {
+    "codigo": "AZ012",
+    "origem": "VCP",
+    "destino": "SDU",
+    "horario": "14:00",
+    "compania": "Azul",
+    "operando": "T"
+  }
+]
